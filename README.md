@@ -39,10 +39,10 @@ This project focuses on reconstructing historical soil moisture time series data
 
 | Visualization | Description |
 |---------------|-------------|
-| ![Figure 1](figures/decomposition.png) | Time-series decomposition of SMAP data |
-| ![Figure 2](figures/nse_histograms.png) | NSE performance across 3/5/10 fold CV |
-| ![Figure 3](figures/backtrack_1.png) | Backtracked soil moisture (2000–2020) |
-| ![Figure 4](figures/anomalies.png) | Anomaly trends in backtracked soil moisture (1950–2020) |
+| ![Figure 1](results/Decomposition_Plot.png) | Time-series decomposition of SMAP data |
+| ![Figure 2](results/Nse_Plots.png) | NSE performance across 3/5/10 fold CV |
+| ![Figure 3](results/Time_Series_Reconstruction_Plot.png) | Backtracked soil moisture (2000–2020) |
+| ![Figure 4](results/Anomaly_Plot.png) | Anomaly trends in backtracked soil moisture (1950–2020) |
 
 ---
 
